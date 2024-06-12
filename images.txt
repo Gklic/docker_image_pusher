@@ -1,3 +1,2 @@
 python:latest
-adguardhome:latest
-kasmeb/nginx:latest
+kasweb/nginx:latest
