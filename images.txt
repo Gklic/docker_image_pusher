@@ -1,1 +1,4 @@
-kasweb/nginx:latest
+nginx:latest
+mysql:latest
+homeassistant/amd64-addon-mosquitto:latest
+adguard/adguardhome:latest
